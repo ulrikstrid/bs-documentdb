@@ -10,8 +10,12 @@
     "BuckleScript",
     "DocumentDB"
   ],
-  "author": "",
+  "author": "Ulrik Strid",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ulrikstrid/bs-documentdb.git"
+  },
   "devDependencies": {
     "bs-platform": "^4.0.0"
   },
